@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - 'scripts/capture-demos.mjs'
+      - 'scripts/publish-demos.mjs'
       - '.github/workflows/record-demos.yml'
 
 permissions:
@@ -37,11 +38,14 @@ jobs:
       - name: Record public application demos
         run: node scripts/capture-demos.mjs
 
+      - name: Embed verified GIFs in the profile
+        run: node scripts/publish-demos.mjs
+
       - name: Publish generated GIFs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/demos/*.gif
+          git add assets/demos/*.gif README.md
           if git diff --cached --quiet; then
             echo "Nothing to update"
             exit 0

@@ -1,0 +1,51 @@
+name: Record live project demos
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/capture-demos.mjs'
+      - '.github/workflows/record-demos.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-asset-updates
+  cancel-in-progress: false
+
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout profile
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install browser automation
+        run: |
+          npm install --no-save --no-package-lock playwright@1.56.1
+          npx playwright install --with-deps chromium
+
+      - name: Record public application demos
+        run: node scripts/capture-demos.mjs
+
+      - name: Publish generated GIFs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/demos/*.gif
+          if git diff --cached --quiet; then
+            echo "Nothing to update"
+            exit 0
+          fi
+          git commit -m "docs(profile): refresh real project demo GIFs"
+          git pull --rebase origin main
+          git push origin HEAD:main

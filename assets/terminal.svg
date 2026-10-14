@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="290" viewBox="0 0 480 290" role="img">
+<title>Animated developer terminal</title>
+<defs>
+  <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#10141b"/><stop offset="1" stop-color="#0b0f15"/></linearGradient>
+  <filter id="halo"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<rect width="480" height="290" fill="none"/>
+<rect x="30" y="20" width="430" height="248" rx="14" fill="#010409" opacity=".35"/>
+<rect x="22" y="12" width="430" height="248" rx="12" fill="url(#screen)" stroke="#30363d" stroke-width="2"/>
+<rect x="22" y="12" width="430" height="40" rx="12" fill="#21262d"/>
+<rect x="22" y="39" width="430" height="13" fill="#21262d"/>
+<circle cx="43" cy="32" r="5" fill="#fa7970"/><circle cx="60" cy="32" r="5" fill="#d29922"/><circle cx="77" cy="32" r="5" fill="#3fb950"/>
+<text x="239" y="37" font-size="14" fill="#8b949e" text-anchor="middle" font-family="monospace">sergio@workspace — terminal</text>
+<g fill="none" stroke="#202935" opacity=".5" stroke-width="1"><path d="M45 89H429 M45 131H429 M45 173H429 M45 215H429"/></g>
+<g font-family="Consolas,monospace" font-size="17">
+  <text x="46" y="87" fill="#3fb950">➜</text>
+  <text x="70" y="87" fill="#c9d1d9">~/projects</text>
+  <text x="186" y="87" fill="#8b949e">git status</text>
+  <text x="46" y="119" fill="#c9d1d9">On branch</text><text x="149" y="119" fill="#79c0ff">main</text>
+  <text x="46" y="151" fill="#c9d1d9">Building</text><text x="138" y="151" fill="#f0888b">useful tools</text>
+  <text x="46" y="183" fill="#8b949e">Linux · networks · security</text>
+  <text x="46" y="224" fill="#3fb950">➜</text><text x="70" y="224" fill="#c9d1d9">ready to build</text>
+</g>
+<rect x="217" y="207" width="11" height="21" fill="#f0888b"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.42;0.5;0.9;1" dur="1.3s" repeatCount="indefinite"/></rect>
+<g transform="translate(359 145)" opacity=".65">
+  <rect x="12" y="8" width="58" height="8" rx="2" fill="#f0888b"/>
+  <path d="M21 8L29 -8H53L61 8Z" fill="#f0888b"/>
+  <rect x="4" y="16" width="74" height="3" fill="#f0888b"/>
+</g>
+<rect x="26" y="255" width="420" height="1" fill="#f0888b" opacity=".5"/>
+</svg>

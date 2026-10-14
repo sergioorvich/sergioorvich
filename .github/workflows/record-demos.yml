@@ -6,6 +6,7 @@ on:
     paths:
       - 'scripts/capture-demos.mjs'
       - 'scripts/publish-demos.mjs'
+      - 'package.json'
       - '.github/workflows/record-demos.yml'
 
 permissions:
@@ -32,8 +33,9 @@ jobs:
 
       - name: Install browser automation
         run: |
-          npm install --no-save --no-package-lock playwright@1.56.1
+          npm install --no-save --no-package-lock --no-audit --no-fund playwright@1.56.1
           npx playwright install --with-deps chromium
+          ffmpeg -version | head -1
 
       - name: Record public application demos
         run: node scripts/capture-demos.mjs

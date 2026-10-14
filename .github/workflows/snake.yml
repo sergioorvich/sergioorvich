@@ -1,0 +1,41 @@
+name: Animate contributions
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 7 * * *'
+  push:
+    paths:
+      - '.github/workflows/snake.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-asset-updates
+  cancel-in-progress: false
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate animated snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: sergioorvich
+          outputs: |
+            assets/contribution-snake.svg?palette=github-dark&color_snake=#e16b6f
+      - name: Commit SVG when changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-snake.svg
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "docs(profile): update contribution animation"
+          git pull --rebase origin main
+          git push origin HEAD:main

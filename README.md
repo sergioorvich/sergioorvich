@@ -30,6 +30,9 @@ Find and compare fuel prices across Spain. Real station data, search and an inte
 
 **[↗ Try AlLitro](https://allitro.vercel.app/)**
 
+<!-- ALLITRO_DEMO_START -->
+<!-- ALLITRO_DEMO_END -->
+
 <sub>Live web app · Private source</sub>
 
 </td>
@@ -40,6 +43,9 @@ Find and compare fuel prices across Spain. Real station data, search and an inte
 Audio calibration tools for competitive FPS games, including headset-specific profiles and interactive tuning.
 
 **[↗ Try FootstepLab](https://footsteplab.vercel.app/)**
+
+<!-- FOOTSTEPLAB_DEMO_START -->
+<!-- FOOTSTEPLAB_DEMO_END -->
 
 <sub>Live web app · Private source</sub>
 

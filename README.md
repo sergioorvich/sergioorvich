@@ -67,7 +67,11 @@ A practical network troubleshooting toolkit, currently being built and tested. I
 
 ## 🐍 Activity
 
-The contribution animation is generated from my actual GitHub activity and updated by GitHub Actions.
+<div align="center">
+  <img src="./assets/contribution-snake.svg" alt="Animated snake moving across my actual GitHub contribution graph" width="95%" />
+</div>
+
+<sub>Generated from my actual GitHub contributions and refreshed automatically.</sub>
 
 ---
 

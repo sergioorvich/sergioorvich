@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Sergio García Orvich — GitHub profile</title>
+<desc id="desc">Minimal dark banner with red accents and a subtle western landscape.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0" stop-color="#111318"/>
+    <stop offset="1" stop-color="#1a1b20"/>
+  </linearGradient>
+  <linearGradient id="glow" x1="0" x2="1">
+    <stop offset="0" stop-color="#9e4447" stop-opacity="0"/>
+    <stop offset="1" stop-color="#9e4447" stop-opacity=".35"/>
+  </linearGradient>
+  <clipPath id="clip"><rect width="1200" height="320" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <g stroke="#47454a" stroke-width="1" opacity=".19">
+    <path d="M0 64H1200 M0 128H1200 M0 192H1200 M0 256H1200"/>
+    <path d="M75 0V320 M151 0V320 M227 0V320 M303 0V320 M379 0V320 M455 0V320 M531 0V320 M607 0V320 M683 0V320 M759 0V320 M835 0V320 M911 0V320 M987 0V320 M1063 0V320 M1139 0V320"/>
+  </g>
+  <circle cx="1001" cy="132" r="97" fill="#7b2b33" opacity=".23"/>
+  <circle cx="1001" cy="132" r="74" fill="none" stroke="#c36567" stroke-width="1" opacity=".28"/>
+  <g fill="none" stroke="#8f6669" stroke-width="1.4" opacity=".48">
+    <path d="M707 252L768 196 803 220 864 157 917 206 957 168 1018 232 1058 196 1132 264"/>
+    <path d="M739 277L817 235 864 256 930 215 994 275 1072 239 1153 286"/>
+  </g>
+  <path d="M695 310L769 256 800 274 871 228 939 274 987 241 1064 289 1127 259 1200 305V320H695Z" fill="url(#glow)"/>
+  <rect x="61" y="54" width="37" height="3" rx="1.5" fill="#ad4b50"/>
+  <text x="110" y="62" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="600" letter-spacing="2.1" fill="#d6a7a8">DEVELOPER / SYSTEMS / NETWORKS</text>
+  <text x="61" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="67" font-weight="750" letter-spacing="-2.5" fill="#f6f4f2">SERGIO</text>
+  <text x="61" y="221" font-family="Segoe UI, Arial, sans-serif" font-size="61" font-weight="750" letter-spacing="-2.5" fill="#f6f4f2">GARCÍA ORVICH</text>
+  <text x="64" y="274" font-family="Consolas, 'Courier New', monospace" font-size="17" letter-spacing=".4" fill="#b9bcc3">Building practical tools for real problems.</text>
+  <rect x="489" y="257" width="2" height="22" fill="#c96d70">
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1.4s" repeatCount="indefinite"/>
+  </rect>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#9da1ab" text-anchor="end">
+    <text x="1145" y="55">GALICIA, ES</text>
+    <text x="1145" y="291">01 / PROFILE</text>
+  </g>
+  <path d="M60 302H1140" stroke="#a64549" stroke-width="2" opacity=".65"/>
+</g>
+</svg>

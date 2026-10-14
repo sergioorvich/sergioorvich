@@ -1,0 +1,11 @@
+{
+  "name": "sergioorvich-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Profile assets: authentic public demo recordings and small SVG animations",
+  "scripts": {
+    "record-demos": "node scripts/capture-demos.mjs",
+    "publish-demos": "node scripts/publish-demos.mjs"
+  }
+}

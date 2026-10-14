@@ -1,86 +1,69 @@
-<img align="right" width="290" src="./assets/terminal.svg" alt="Animated terminal: building useful tools" />
+<img src="./assets/nightshift.svg" align="right" width="310" alt="Small animated pixel-art scene: a cowboy building software at night" />
 
-# Hey, I'm Sergio. 👋
+# Sergio García Orvich
 
-**Systems, networks, cybersecurity — and tools worth building.**
+I’m into **Linux, networks and security**, but I keep finding excuses to build software.
 
-I like turning everyday problems into software people can actually use. I work across systems administration and web development, learning by **building, testing and shipping**.
+It started with things I wanted to use myself. A better way to compare fuel prices. A way to fine-tune audio for competitive games. Now I'm working on a tool to make network troubleshooting less painful.
 
-- 🛠️ **Building:** useful apps, practical tooling and better workflows.
-- 🔐 **Exploring:** Linux, networking, security and automation.
-- 🌱 **Next public release:** **NetTriage**, a network troubleshooting toolkit.
+**I like the whole process:** figuring things out, making them work, testing them, and sharing the result.
+
+<sub>Currently working on: <strong>NetTriage</strong> · Network diagnostics, made approachable.</sub>
 
 <br clear="right" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1250&color=8B949E&center=true&vCenter=true&width=660&height=40&lines=Think+it.+Build+it.+Test+it.;Make+it+useful.;Keep+learning%2C+keep+shipping." alt="Animated motto: Think it. Build it. Test it." />
-</div>
-
 ---
 
-## 🚀 Featured projects
+## Things I've built
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 01 &nbsp; / &nbsp; [AlLitro](https://allitro.vercel.app/) &nbsp; ↗
 
-### ⛽ [AlLitro](https://allitro.vercel.app/)
+**A fuel-price map for Spain.**
 
-Find and compare fuel prices across Spain. Real station data, search and an interactive map.
+A fast way to find stations and compare what you're actually paying. It uses public fuel-price data, an interactive map and a searchable list of locations.
 
-**[↗ Try AlLitro](https://allitro.vercel.app/)**
+<a href="https://allitro.vercel.app/">**Open AlLitro →**</a> &nbsp; <sub>Live · Private source</sub>
 
 <!-- ALLITRO_DEMO_START -->
 <!-- ALLITRO_DEMO_END -->
 
-<sub>Live web app · Private source</sub>
+---
 
-</td>
-<td width="50%" valign="top">
+### 02 &nbsp; / &nbsp; [FootstepLab](https://footsteplab.vercel.app/) &nbsp; ↗
 
-### 🎧 [FootstepLab](https://footsteplab.vercel.app/)
+**A little audio lab for competitive FPS players.**
 
-Audio calibration tools for competitive FPS games, including headset-specific profiles and interactive tuning.
+Headset-specific EQ profiles and interactive audio tools for finding a clearer sound in games. Built with Web Audio and a lot of testing.
 
-**[↗ Try FootstepLab](https://footsteplab.vercel.app/)**
+<a href="https://footsteplab.vercel.app/">**Open FootstepLab →**</a> &nbsp; <sub>Live · Private source</sub>
 
 <!-- FOOTSTEPLAB_DEMO_START -->
 <!-- FOOTSTEPLAB_DEMO_END -->
 
-<sub>Live web app · Private source</sub>
+---
 
-</td>
-</tr>
-</table>
+### 03 &nbsp; / &nbsp; NetTriage &nbsp; <sub>IN PROGRESS</sub>
 
-### 🌐 NetTriage <sub>— coming to open source</sub>
+**Network troubleshooting without the guesswork.**
 
-A practical network troubleshooting toolkit, currently being built and tested. It will have its own public repository when it is ready to release.
+An open-source network diagnostic tool I'm refining before its first public release. The repository will appear here when it's ready.
 
 ---
 
-## 🧰 Tech & tools
+## What I work with
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,python,ts,react,git,docker&theme=dark&perline=8" alt="Linux, Bash, PowerShell, Python, TypeScript, React, Git and Docker" />
-</div>
+`Linux` &nbsp; `Networking` &nbsp; `Windows Server` &nbsp; `Bash` &nbsp; `PowerShell` &nbsp; `TypeScript` &nbsp; `React` &nbsp; `Git`
 
+I’m learning as I go. The projects above are a better introduction than a long list of tools.
+
+<details>
+<summary><strong>One more thing — the GitHub contribution snake 🐍</strong></summary>
 <br />
-
-**Things I enjoy:** Linux · Networking · Windows Server · Security · Scripting · Building practical web tools
-
----
-
-## 🐍 Activity
-
-<div align="center">
-  <img src="./assets/contribution-snake.svg" alt="Animated snake moving across my actual GitHub contribution graph" width="95%" />
-</div>
-
-<sub>Generated from my actual GitHub contributions and refreshed automatically.</sub>
+<img src="./assets/contribution-snake.svg" width="100%" alt="Animated snake built from my GitHub contribution graph" />
+<br />
+<sub>Generated automatically from real GitHub activity.</sub>
+</details>
 
 ---
 
-<div align="center">
-  <sub>Less buzzwords. More things that work.</sub>
-</div>
+<sub>Thanks for stopping by. If a project looks useful, try it.</sub>

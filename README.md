@@ -20,34 +20,73 @@ I care about useful features, solid testing, and the little details that make an
 
 ---
 
-## ⚙️ What I work with
+## 🧰 My toolbox
+
+<sub>Things I actually use, build with or study — not a list of technologies I claim to have mastered.</sub>
+
+<br><br>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Systems & automation**
+<strong>01 &nbsp; Systems & infrastructure</strong><br>
+<sub>Operating systems, VMs and automation</sub>
 
-<br>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,docker,py&theme=dark&perline=6" alt="Linux, Windows, Bash, PowerShell, Docker and Python" />
-
-<br>
-
-<sub>Linux · Windows Server · Networking · Scripting</sub>
+<img src="https://img.shields.io/badge/Linux-252C35?style=flat-square&amp;logo=linux&amp;logoColor=white&amp;labelColor=252C35" alt="Linux" />
+<img src="https://img.shields.io/badge/Windows_Server-252C35?style=flat-square&amp;logo=windows&amp;logoColor=white&amp;labelColor=252C35" alt="Windows Server" />
+<img src="https://img.shields.io/badge/Docker-252C35?style=flat-square&amp;logo=docker&amp;logoColor=white&amp;labelColor=252C35" alt="Docker" />
+<img src="https://img.shields.io/badge/VirtualBox-252C35?style=flat-square&amp;logo=virtualbox&amp;logoColor=white&amp;labelColor=252C35" alt="VirtualBox" />
+<img src="https://img.shields.io/badge/Bash-252C35?style=flat-square&amp;logo=gnubash&amp;logoColor=white&amp;labelColor=252C35" alt="Bash" />
+<img src="https://img.shields.io/badge/PowerShell-252C35?style=flat-square&amp;logo=powershell&amp;logoColor=white&amp;labelColor=252C35" alt="PowerShell" />
 
 </td>
 <td width="50%" valign="top">
 
-**Software & web**
+<strong>02 &nbsp; Networking & security</strong><br>
+<sub>Networks, diagnostics and security labs</sub>
 
-<br>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,git&theme=dark&perline=6" alt="TypeScript, JavaScript, React, Next.js, Node.js and Git" />
+<img src="https://img.shields.io/badge/TCP%2FIP-252C35?style=flat-square&amp;labelColor=252C35" alt="TCP/IP" />
+<img src="https://img.shields.io/badge/VLANs-252C35?style=flat-square&amp;labelColor=252C35" alt="VLANs" />
+<img src="https://img.shields.io/badge/Kali_Linux-252C35?style=flat-square&amp;logo=kalilinux&amp;logoColor=white&amp;labelColor=252C35" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Wireshark-252C35?style=flat-square&amp;logo=wireshark&amp;logoColor=white&amp;labelColor=252C35" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Active_Directory-252C35?style=flat-square&amp;logo=microsoft&amp;logoColor=white&amp;labelColor=252C35" alt="Active Directory" />
 
-<br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<sub>Applications · APIs · UI · Version control</sub>
+<strong>03 &nbsp; Code & web</strong><br>
+<sub>Technologies behind my projects</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/TypeScript-252C35?style=flat-square&amp;logo=typescript&amp;logoColor=white&amp;labelColor=252C35" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-252C35?style=flat-square&amp;logo=javascript&amp;logoColor=white&amp;labelColor=252C35" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-252C35?style=flat-square&amp;logo=react&amp;logoColor=white&amp;labelColor=252C35" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-252C35?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white&amp;labelColor=252C35" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-252C35?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white&amp;labelColor=252C35" alt="Node.js" />
+<img src="https://img.shields.io/badge/Python-252C35?style=flat-square&amp;logo=python&amp;logoColor=white&amp;labelColor=252C35" alt="Python" />
+
+</td>
+<td width="50%" valign="top">
+
+<strong>04 &nbsp; AI & workflow</strong><br>
+<sub>Tools I use to build, iterate and test</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Gemini-252C35?style=flat-square&amp;logo=googlegemini&amp;logoColor=white&amp;labelColor=252C35" alt="Gemini" />
+<img src="https://img.shields.io/badge/Antigravity-252C35?style=flat-square&amp;labelColor=252C35" alt="Antigravity" />
+<img src="https://img.shields.io/badge/Codex-252C35?style=flat-square&amp;logo=openai&amp;logoColor=white&amp;labelColor=252C35" alt="Codex" />
+<img src="https://img.shields.io/badge/Claude_Code-252C35?style=flat-square&amp;logo=claude&amp;logoColor=white&amp;labelColor=252C35" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Git-252C35?style=flat-square&amp;logo=git&amp;logoColor=white&amp;labelColor=252C35" alt="Git" />
+<img src="https://img.shields.io/badge/Vercel-252C35?style=flat-square&amp;logo=vercel&amp;logoColor=white&amp;labelColor=252C35" alt="Vercel" />
 
 </td>
 </tr>
@@ -93,34 +132,30 @@ I care about useful features, solid testing, and the little details that make an
 
 ---
 
-## 📊 GitHub activity
+## 📈 GitHub activity
+
+<sub>Actual contribution activity — no inflated counters or made-up language percentages.</sub>
 
 <div align="center">
 
-<a href="https://github.com/sergioorvich">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergioorvich&amp;theme=github_dark&amp;animation=draw" width="98%" alt="Dynamic GitHub activity and contributions summary" />
-</a>
-
-<br>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=sergioorvich&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;ring=C66B70&amp;fire=C66B70&amp;currStreakLabel=C66B70" width="68%" alt="Live GitHub contribution streak statistics" />
+<a href="https://github.com/sergioorvich?tab=overview">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sergioorvich&amp;bg_color=0D1117&amp;color=AEB7C2&amp;line=38B69A&amp;point=F0F6FC&amp;area_color=1F6C5C&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20timeline&amp;days=31&amp;radius=8" width="98%" alt="Live chart of GitHub contributions over the past 31 days" />
 </a>
 
 </div>
 
 <details>
-<summary><b>Contribution snake · animated</b></summary>
+<summary><strong>🐍 Watch the contribution snake</strong> &nbsp; <sub>animated from actual activity</sub></summary>
 
 <br>
 
 <div align="center">
-<img src="./assets/contribution-snake.svg" width="100%" alt="Animated contribution snake made from actual GitHub activity" />
+<img src="./assets/contribution-snake.svg" width="100%" alt="Animated snake moving across my GitHub contribution graph" />
 </div>
 
 </details>
 
-<sub>These widgets reflect GitHub contribution activity; private repositories remain private and may not be fully represented by third-party statistics.</sub>
+<sub>Some private contributions may not appear in third-party widgets. My application source repositories remain private.</sub>
 
 ---
 

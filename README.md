@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sergio García Orvich
+# Sergio Orvich
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=1100&color=E6EDF3&center=true&vCenter=true&width=720&height=40&lines=Linux+%C2%B7+Networking+%C2%B7+Cybersecurity;I+build+tools+I+wish+already+existed.;Learning%2C+testing%2C+shipping." alt="Animated introduction: Linux, Networking, Cybersecurity; building practical tools" />
 

@@ -22,7 +22,7 @@ I care about useful features, solid testing, and the little details that make an
 
 ## 🧰 My toolbox
 
-<sub>Things I actually use, build with or study — not a list of technologies I claim to have mastered.</sub>
+<sub>The tools, languages and platforms I use across projects and technical labs.</sub>
 
 <br><br>
 
@@ -134,7 +134,7 @@ I care about useful features, solid testing, and the little details that make an
 
 ## 📈 GitHub activity
 
-<sub>Actual contribution activity — no inflated counters or made-up language percentages.</sub>
+<sub>A live look at my recent contributions.</sub>
 
 <div align="center">
 
@@ -155,7 +155,7 @@ I care about useful features, solid testing, and the little details that make an
 
 </details>
 
-<sub>Some private contributions may not appear in third-party widgets. My application source repositories remain private.</sub>
+<sub>Private project code stays private; third-party charts may not reflect all contributions.</sub>
 
 ---
 

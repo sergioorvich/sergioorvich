@@ -20,79 +20,75 @@ I care about useful features, solid testing, and the little details that make an
 
 ---
 
-## 🧰 My toolbox
+## 🧰 Toolbox
 
-<sub>The tools, languages and platforms I use across projects and technical labs.</sub>
-
-<br><br>
+<sub>Tools I use in projects, technical labs and AI-assisted development.</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<strong>01 &nbsp; Systems & infrastructure</strong><br>
-<sub>Operating systems, VMs and automation</sub>
+<strong>Systems & infrastructure</strong><br>
+<sub>Operating systems and automation</sub>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Linux-252C35?style=flat-square&amp;logo=linux&amp;logoColor=white&amp;labelColor=252C35" alt="Linux" />
-<img src="https://img.shields.io/badge/Windows_Server-252C35?style=flat-square&amp;logo=windows&amp;logoColor=white&amp;labelColor=252C35" alt="Windows Server" />
-<img src="https://img.shields.io/badge/Docker-252C35?style=flat-square&amp;logo=docker&amp;logoColor=white&amp;labelColor=252C35" alt="Docker" />
-<img src="https://img.shields.io/badge/VirtualBox-252C35?style=flat-square&amp;logo=virtualbox&amp;logoColor=white&amp;labelColor=252C35" alt="VirtualBox" />
-<img src="https://img.shields.io/badge/Bash-252C35?style=flat-square&amp;logo=gnubash&amp;logoColor=white&amp;labelColor=252C35" alt="Bash" />
-<img src="https://img.shields.io/badge/PowerShell-252C35?style=flat-square&amp;logo=powershell&amp;logoColor=white&amp;labelColor=252C35" alt="PowerShell" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&amp;logo=windows&amp;logoColor=white" alt="Windows Server" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&amp;logo=virtualbox&amp;logoColor=white" alt="VirtualBox" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&amp;logo=powershell&amp;logoColor=white" alt="PowerShell" />
 
 </td>
 <td width="50%" valign="top">
 
-<strong>02 &nbsp; Networking & security</strong><br>
-<sub>Networks, diagnostics and security labs</sub>
+<strong>Networks & security</strong><br>
+<sub>Lab work, protocols and diagnostics</sub>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/TCP%2FIP-252C35?style=flat-square&amp;labelColor=252C35" alt="TCP/IP" />
-<img src="https://img.shields.io/badge/VLANs-252C35?style=flat-square&amp;labelColor=252C35" alt="VLANs" />
-<img src="https://img.shields.io/badge/Kali_Linux-252C35?style=flat-square&amp;logo=kalilinux&amp;logoColor=white&amp;labelColor=252C35" alt="Kali Linux" />
-<img src="https://img.shields.io/badge/Wireshark-252C35?style=flat-square&amp;logo=wireshark&amp;logoColor=white&amp;labelColor=252C35" alt="Wireshark" />
-<img src="https://img.shields.io/badge/Active_Directory-252C35?style=flat-square&amp;logo=microsoft&amp;logoColor=white&amp;labelColor=252C35" alt="Active Directory" />
+<img src="https://img.shields.io/badge/TCP%2FIP-294A66?style=flat-square" alt="TCP/IP" />
+<img src="https://img.shields.io/badge/VLANs-294A66?style=flat-square" alt="VLANs" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Active_Directory-3962A8?style=flat-square&amp;logo=microsoft&amp;logoColor=white" alt="Active Directory" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<strong>03 &nbsp; Code & web</strong><br>
-<sub>Technologies behind my projects</sub>
+<strong>Web & development</strong><br>
+<sub>The stack behind my projects</sub>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/TypeScript-252C35?style=flat-square&amp;logo=typescript&amp;logoColor=white&amp;labelColor=252C35" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-252C35?style=flat-square&amp;logo=javascript&amp;logoColor=white&amp;labelColor=252C35" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-252C35?style=flat-square&amp;logo=react&amp;logoColor=white&amp;labelColor=252C35" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-252C35?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white&amp;labelColor=252C35" alt="Next.js" />
-<img src="https://img.shields.io/badge/Node.js-252C35?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white&amp;labelColor=252C35" alt="Node.js" />
-<img src="https://img.shields.io/badge/Python-252C35?style=flat-square&amp;logo=python&amp;logoColor=white&amp;labelColor=252C35" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-149ECA?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
 
 </td>
 <td width="50%" valign="top">
 
-<strong>04 &nbsp; AI & workflow</strong><br>
-<sub>Tools I use to build, iterate and test</sub>
+<strong>AI & shipping</strong><br>
+<sub>The tools I actually use to build and publish</sub>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Gemini-252C35?style=flat-square&amp;logo=googlegemini&amp;logoColor=white&amp;labelColor=252C35" alt="Gemini" />
-<img src="https://img.shields.io/badge/Antigravity-252C35?style=flat-square&amp;labelColor=252C35" alt="Antigravity" />
-<img src="https://img.shields.io/badge/Codex-252C35?style=flat-square&amp;logo=openai&amp;logoColor=white&amp;labelColor=252C35" alt="Codex" />
-<img src="https://img.shields.io/badge/Claude_Code-252C35?style=flat-square&amp;logo=claude&amp;logoColor=white&amp;labelColor=252C35" alt="Claude Code" />
-<img src="https://img.shields.io/badge/Git-252C35?style=flat-square&amp;logo=git&amp;logoColor=white&amp;labelColor=252C35" alt="Git" />
-<img src="https://img.shields.io/badge/Vercel-252C35?style=flat-square&amp;logo=vercel&amp;logoColor=white&amp;labelColor=252C35" alt="Vercel" />
+<img src="https://img.shields.io/badge/Gemini-7067CF?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Antigravity-364451?style=flat-square" alt="Antigravity" />
+<img src="https://img.shields.io/badge/Codex-20252B?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Codex" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
 
 </td>
 </tr>
 </table>
-
----
 
 ## 🧩 Things I've built
 

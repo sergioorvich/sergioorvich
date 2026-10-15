@@ -61,34 +61,28 @@ I care about useful features, solid testing, and the little details that make an
 <tr>
 <td width="50%" valign="top">
 
-### [⛽ AlLitro ↗](https://allitro.vercel.app/)
-
-**Fuel prices, without the hassle.**
-
-Compare gas stations across Spain with a live-data map and location search.
+<h3><a href="https://allitro.vercel.app/">⛽ AlLitro ↗</a></h3>
+<p><strong>Fuel prices, without the hassle.</strong></p>
+<p>Compare gas stations across Spain with a live-data map and location search.</p>
 
 <!-- ALLITRO_DEMO_START -->
 <!-- ALLITRO_DEMO_END -->
 
-[**Explore the live app →**](https://allitro.vercel.app/)
-
-<img src="https://img.shields.io/badge/STATUS-LIVE-267D68?style=flat-square" alt="Live application" /> <img src="https://img.shields.io/badge/SOURCE-PRIVATE-444C56?style=flat-square" alt="Private source code" />
+<p><a href="https://allitro.vercel.app/"><strong>Explore the live app →</strong></a></p>
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fallitro.vercel.app%2F&amp;label=website&amp;style=flat-square" alt="Live AlLitro website status" /> <img src="https://img.shields.io/badge/SOURCE-PRIVATE-444C56?style=flat-square" alt="Private source code" />
 
 </td>
 <td width="50%" valign="top">
 
-### [🎧 FootstepLab ↗](https://footsteplab.vercel.app/)
-
-**A practical audio lab for FPS games.**
-
-Explore headset-specific EQ profiles and interactive audio calibration tools.
+<h3><a href="https://footsteplab.vercel.app/">🎧 FootstepLab ↗</a></h3>
+<p><strong>A practical audio lab for FPS games.</strong></p>
+<p>Explore headset-specific EQ profiles and interactive audio calibration tools.</p>
 
 <!-- FOOTSTEPLAB_DEMO_START -->
 <!-- FOOTSTEPLAB_DEMO_END -->
 
-[**Explore the live app →**](https://footsteplab.vercel.app/)
-
-<img src="https://img.shields.io/badge/STATUS-LIVE-267D68?style=flat-square" alt="Live application" /> <img src="https://img.shields.io/badge/SOURCE-PRIVATE-444C56?style=flat-square" alt="Private source code" />
+<p><a href="https://footsteplab.vercel.app/"><strong>Explore the live app →</strong></a></p>
+<img src="https://img.shields.io/website?url=https%3A%2F%2Ffootsteplab.vercel.app%2F&amp;label=website&amp;style=flat-square" alt="Live FootstepLab website status" /> <img src="https://img.shields.io/badge/SOURCE-PRIVATE-444C56?style=flat-square" alt="Private source code" />
 
 </td>
 </tr>

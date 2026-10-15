@@ -128,30 +128,50 @@ I care about useful features, solid testing, and the little details that make an
 
 ---
 
-## 📈 GitHub activity
+## 📊 GitHub activity
 
-<sub>A live look at my recent contributions.</sub>
-
-<div align="center">
-
-<a href="https://github.com/sergioorvich?tab=overview">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sergioorvich&amp;bg_color=0D1117&amp;color=AEB7C2&amp;line=38B69A&amp;point=F0F6FC&amp;area_color=1F6C5C&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20timeline&amp;days=31&amp;radius=8" width="98%" alt="Live chart of GitHub contributions over the past 31 days" />
-</a>
-
-</div>
-
-<details>
-<summary><strong>🐍 Watch the contribution snake</strong> &nbsp; <sub>animated from actual activity</sub></summary>
+<sub>Live contribution data · automatically updated</sub>
 
 <br>
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sergioorvich&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;hide_rank=true&amp;hide=prs%2Cissues&amp;include_all_commits=true&amp;bg_color=0D1117&amp;title_color=E6EDF3&amp;text_color=ADB8C4&amp;icon_color=3FB950&amp;card_width=440&amp;custom_title=GitHub%20overview" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sergioorvich&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;hide_rank=true&amp;hide=prs%2Cissues&amp;include_all_commits=true&amp;bg_color=FFFFFF&amp;title_color=24292F&amp;text_color=57606A&amp;icon_color=1A7F37&amp;card_width=440&amp;custom_title=GitHub%20overview" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sergioorvich&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;hide_rank=true&amp;hide=prs%2Cissues&amp;include_all_commits=true&amp;bg_color=FFFFFF&amp;title_color=24292F&amp;text_color=57606A&amp;icon_color=1A7F37&amp;card_width=440&amp;custom_title=GitHub%20overview" alt="Live GitHub contributions and public activity statistics" width="100%" />
+</picture>
+</td>
+<td width="50%" align="center" valign="middle">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sergioorvich&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;border_radius=10&amp;ring=3FB950&amp;fire=E3B341&amp;stroke=30363D&amp;currStreakLabel=3FB950&amp;sideLabels=ADB8C4&amp;sideNums=E6EDF3&amp;currStreakNum=E6EDF3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=sergioorvich&amp;theme=github&amp;hide_border=true&amp;background=FFFFFF&amp;border_radius=10&amp;ring=1A7F37&amp;fire=BF8700&amp;stroke=D0D7DE&amp;currStreakLabel=1A7F37&amp;sideLabels=57606A&amp;sideNums=24292F&amp;currStreakNum=24292F" />
+  <img src="https://streak-stats.demolab.com/?user=sergioorvich&amp;theme=github&amp;hide_border=true&amp;background=FFFFFF&amp;border_radius=10&amp;ring=1A7F37&amp;fire=BF8700&amp;stroke=D0D7DE&amp;currStreakLabel=1A7F37&amp;sideLabels=57606A&amp;sideNums=24292F&amp;currStreakNum=24292F" alt="Current, longest and total GitHub contribution streaks" width="100%" />
+</picture>
+</td>
+</tr>
+</table>
+
 <div align="center">
-<img src="./assets/contribution-snake.svg" width="100%" alt="Animated snake moving across my GitHub contribution graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sergioorvich&amp;bg_color=0D1117&amp;color=ADB8C4&amp;title_color=E6EDF3&amp;line=3FB950&amp;point=E3B341&amp;area_color=238636&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20timeline&amp;days=45&amp;height=290&amp;radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sergioorvich&amp;bg_color=FFFFFF&amp;color=57606A&amp;title_color=24292F&amp;line=1A7F37&amp;point=BF8700&amp;area_color=2DA44E&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20timeline&amp;days=45&amp;height=290&amp;radius=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergioorvich&amp;bg_color=FFFFFF&amp;color=57606A&amp;title_color=24292F&amp;line=1A7F37&amp;point=BF8700&amp;area_color=2DA44E&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20timeline&amp;days=45&amp;height=290&amp;radius=10" alt="Live contribution activity for the last 45 days" width="98%" />
+</picture>
+
 </div>
 
-</details>
+**Contributions, in motion.** &nbsp; <sub>Generated from my actual GitHub calendar.</sub>
 
-<sub>Private project code stays private; third-party charts may not reflect all contributions.</sub>
+<div align="center">
+<a href="https://github.com/sergioorvich?tab=overview">
+  <img src="./assets/contribution-snake.svg" alt="Animated snake moving through my GitHub contribution calendar" width="98%" />
+</a>
+</div>
+
+<sub>Public GitHub widgets can undercount work in private repositories. The source code of AlLitro and FootstepLab remains private.</sub>
 
 ---
 

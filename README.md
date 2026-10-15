@@ -1,69 +1,135 @@
-<img src="./assets/nightshift.svg" align="right" width="310" alt="Small animated pixel-art scene: a cowboy building software at night" />
+<div align="center">
 
 # Sergio García Orvich
 
-I’m into **Linux, networks and security**, but I keep finding excuses to build software.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=1100&color=E6EDF3&center=true&vCenter=true&width=720&height=40&lines=Linux+%C2%B7+Networking+%C2%B7+Cybersecurity;I+build+tools+I+wish+already+existed.;Learning%2C+testing%2C+shipping." alt="Animated introduction: Linux, Networking, Cybersecurity; building practical tools" />
 
-It started with things I wanted to use myself. A better way to compare fuel prices. A way to fine-tune audio for competitive games. Now I'm working on a tool to make network troubleshooting less painful.
+<br>
 
-**I like the whole process:** figuring things out, making them work, testing them, and sharing the result.
+<a href="https://github.com/sergioorvich?tab=repositories"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-sergioorvich-21262D?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://allitro.vercel.app/"><img alt="AlLitro live" src="https://img.shields.io/badge/AlLitro-live-267D68?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://footsteplab.vercel.app/"><img alt="FootstepLab live" src="https://img.shields.io/badge/FootstepLab-live-267D68?style=flat-square&logo=vercel&logoColor=white" /></a>
 
-<sub>Currently working on: <strong>NetTriage</strong> · Network diagnostics, made approachable.</sub>
+</div>
 
-<br clear="right" />
+<br>
+
+I’m interested in what happens **between systems, networks and software**. I learn by making things: from a map that helps people find cheaper fuel, to audio tools for competitive gaming. Lately, I’ve been building **NetTriage**, a network troubleshooting toolkit.
+
+I care about useful features, solid testing, and the little details that make an application feel finished.
 
 ---
 
-## Things I've built
+## ⚙️ What I work with
 
-### 01 &nbsp; / &nbsp; [AlLitro](https://allitro.vercel.app/) &nbsp; ↗
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**A fuel-price map for Spain.**
+**Systems & automation**
 
-A fast way to find stations and compare what you're actually paying. It uses public fuel-price data, an interactive map and a searchable list of locations.
+<br>
 
-<a href="https://allitro.vercel.app/">**Open AlLitro →**</a> &nbsp; <sub>Live · Private source</sub>
+<img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,docker,py&theme=dark&perline=6" alt="Linux, Windows, Bash, PowerShell, Docker and Python" />
+
+<br>
+
+<sub>Linux · Windows Server · Networking · Scripting</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Software & web**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,git&theme=dark&perline=6" alt="TypeScript, JavaScript, React, Next.js, Node.js and Git" />
+
+<br>
+
+<sub>Applications · APIs · UI · Version control</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 Things I've built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [⛽ AlLitro ↗](https://allitro.vercel.app/)
+
+**Fuel prices, without the hassle.**
+
+Compare gas stations across Spain with a live-data map and location search.
 
 <!-- ALLITRO_DEMO_START -->
 <!-- ALLITRO_DEMO_END -->
 
----
+[**Explore the live app →**](https://allitro.vercel.app/)
 
-### 02 &nbsp; / &nbsp; [FootstepLab](https://footsteplab.vercel.app/) &nbsp; ↗
+<img src="https://img.shields.io/badge/STATUS-LIVE-267D68?style=flat-square" alt="Live application" /> <img src="https://img.shields.io/badge/SOURCE-PRIVATE-444C56?style=flat-square" alt="Private source code" />
 
-**A little audio lab for competitive FPS players.**
+</td>
+<td width="50%" valign="top">
 
-Headset-specific EQ profiles and interactive audio tools for finding a clearer sound in games. Built with Web Audio and a lot of testing.
+### [🎧 FootstepLab ↗](https://footsteplab.vercel.app/)
 
-<a href="https://footsteplab.vercel.app/">**Open FootstepLab →**</a> &nbsp; <sub>Live · Private source</sub>
+**A practical audio lab for FPS games.**
+
+Explore headset-specific EQ profiles and interactive audio calibration tools.
 
 <!-- FOOTSTEPLAB_DEMO_START -->
 <!-- FOOTSTEPLAB_DEMO_END -->
 
+[**Explore the live app →**](https://footsteplab.vercel.app/)
+
+<img src="https://img.shields.io/badge/STATUS-LIVE-267D68?style=flat-square" alt="Live application" /> <img src="https://img.shields.io/badge/SOURCE-PRIVATE-444C56?style=flat-square" alt="Private source code" />
+
+</td>
+</tr>
+</table>
+
+> **Currently building — NetTriage**  
+> Network diagnostics made useful for newcomers and technical users alike. Public, open-source release planned when testing is complete.
+
 ---
 
-### 03 &nbsp; / &nbsp; NetTriage &nbsp; <sub>IN PROGRESS</sub>
+## 📊 GitHub activity
 
-**Network troubleshooting without the guesswork.**
+<div align="center">
 
-An open-source network diagnostic tool I'm refining before its first public release. The repository will appear here when it's ready.
+<a href="https://github.com/sergioorvich">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergioorvich&amp;theme=github_dark&amp;animation=draw" width="98%" alt="Dynamic GitHub activity and contributions summary" />
+</a>
 
----
+<br>
 
-## What I work with
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=sergioorvich&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;ring=C66B70&amp;fire=C66B70&amp;currStreakLabel=C66B70" width="68%" alt="Live GitHub contribution streak statistics" />
+</a>
 
-`Linux` &nbsp; `Networking` &nbsp; `Windows Server` &nbsp; `Bash` &nbsp; `PowerShell` &nbsp; `TypeScript` &nbsp; `React` &nbsp; `Git`
-
-I’m learning as I go. The projects above are a better introduction than a long list of tools.
+</div>
 
 <details>
-<summary><strong>One more thing — the GitHub contribution snake 🐍</strong></summary>
-<br />
-<img src="./assets/contribution-snake.svg" width="100%" alt="Animated snake built from my GitHub contribution graph" />
-<br />
-<sub>Generated automatically from real GitHub activity.</sub>
+<summary><b>Contribution snake · animated</b></summary>
+
+<br>
+
+<div align="center">
+<img src="./assets/contribution-snake.svg" width="100%" alt="Animated contribution snake made from actual GitHub activity" />
+</div>
+
 </details>
+
+<sub>These widgets reflect GitHub contribution activity; private repositories remain private and may not be fully represented by third-party statistics.</sub>
 
 ---
 
-<sub>Thanks for stopping by. If a project looks useful, try it.</sub>
+<div align="center">
+<sub>Built to be used. Improved by testing. <a href="https://github.com/sergioorvich?tab=repositories">Explore my GitHub ↗</a></sub>
+</div>

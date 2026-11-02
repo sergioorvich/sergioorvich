@@ -8,13 +8,12 @@
 
 <a href="https://github.com/sergioorvich?tab=repositories"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-sergioorvich-21262D?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://allitro.vercel.app/"><img alt="AlLitro live" src="https://img.shields.io/badge/AlLitro-live-267D68?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://footsteplab.vercel.app/"><img alt="FootstepLab live" src="https://img.shields.io/badge/FootstepLab-live-267D68?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </div>
 
 <br>
 
-I’m interested in what happens **between systems, networks and software**. I learn by making things: from a map that helps people find cheaper fuel, to audio tools for competitive gaming. Lately, I’ve been building **NetTriage**, a network troubleshooting toolkit.
+I’m interested in what happens **between systems, networks and software**. I learn by making things: from a map that helps people find cheaper fuel to tools that make network troubleshooting easier. Lately, I’ve been building **NetTriage**, a network troubleshooting toolkit.
 
 I care about useful features, solid testing, and the little details that make an application feel finished.
 
@@ -94,7 +93,7 @@ I care about useful features, solid testing, and the little details that make an
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <h3><a href="https://allitro.vercel.app/">⛽ AlLitro ↗</a></h3>
 <p><strong>Fuel prices, without the hassle.</strong></p>
@@ -105,19 +104,6 @@ I care about useful features, solid testing, and the little details that make an
 
 <p><a href="https://allitro.vercel.app/"><strong>Explore the live app →</strong></a></p>
 <img src="https://img.shields.io/website?url=https%3A%2F%2Fallitro.vercel.app%2F&amp;label=website&amp;style=flat-square" alt="Live AlLitro website status" /> <img src="https://img.shields.io/badge/SOURCE-PRIVATE-444C56?style=flat-square" alt="Private source code" />
-
-</td>
-<td width="50%" valign="top">
-
-<h3><a href="https://footsteplab.vercel.app/">🎧 FootstepLab ↗</a></h3>
-<p><strong>A practical audio lab for FPS games.</strong></p>
-<p>Explore headset-specific EQ profiles and interactive audio calibration tools.</p>
-
-<!-- FOOTSTEPLAB_DEMO_START -->
-<!-- FOOTSTEPLAB_DEMO_END -->
-
-<p><a href="https://footsteplab.vercel.app/"><strong>Explore the live app →</strong></a></p>
-<img src="https://img.shields.io/website?url=https%3A%2F%2Ffootsteplab.vercel.app%2F&amp;label=website&amp;style=flat-square" alt="Live FootstepLab website status" /> <img src="https://img.shields.io/badge/SOURCE-PRIVATE-444C56?style=flat-square" alt="Private source code" />
 
 </td>
 </tr>
@@ -171,7 +157,7 @@ I care about useful features, solid testing, and the little details that make an
 </a>
 </div>
 
-<sub>Public GitHub widgets can undercount work in private repositories. The source code of AlLitro and FootstepLab remains private.</sub>
+<sub>Public GitHub widgets can undercount work in private repositories. The source code of AlLitro remains private.</sub>
 
 ---
 
